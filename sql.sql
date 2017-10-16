@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS dis;
-USE dis;
+CREATE DATABASE IF NOT EXISTS fmldb DEFAULT CHARACTER SET utf8 ;
+USE fmldb ;
 
 /* Create Tables */
 
