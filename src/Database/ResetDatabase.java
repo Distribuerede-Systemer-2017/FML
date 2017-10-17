@@ -82,7 +82,7 @@ public class ResetDatabase {
         System.out.println("Create new database ...");
 
         //Run script
-        String sqlFilePath = getWorkingDir() + "/src/sql.sql";
+        String sqlFilePath = getWorkingDir() + "/src/Database/sql.sql";
         executeSql(sqlFilePath);
         System.out.println("Sql script done!");
     }
