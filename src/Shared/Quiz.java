@@ -6,6 +6,6 @@ public class Quiz {
     private int quizId;
     private String quizTitle;
 
-    public Quiz()
+
 
 }
